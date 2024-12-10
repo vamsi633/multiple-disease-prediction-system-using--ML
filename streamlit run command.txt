@@ -1,0 +1,1 @@
+streamlit run "/Users/vamsikrishnanouluri/Documents/ms/Multiple Disease Prediction System/Multiple disease predict.py"
